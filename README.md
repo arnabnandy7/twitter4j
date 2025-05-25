@@ -125,4 +125,7 @@ Yuichiro Kawano <tresener.yu1ro at gmail.com> @tresener_yu1ro
 Yusuke Yamamoto <yusuke at mac.com> @yusuke
 Yuto Uehara <mumei.himazin at gmail.com> @mumei_himazin
 
-<!-- GitAds-Verify: R5KJQNA45C8X2QYCIN1BCK9U5JAWEJA7 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/twitter4j@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/twitter4j@github)
+
+
